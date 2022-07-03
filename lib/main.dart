@@ -85,7 +85,7 @@ class Outgoing extends StatelessWidget {
         Center(
           child: Text('OutGoing',
           style: TextStyle(
-            fontSize: 50,
+            fontSize: 30,
             fontWeight: FontWeight.bold,
           ),),
         ),
